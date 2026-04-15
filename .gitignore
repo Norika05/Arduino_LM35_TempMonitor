@@ -11,4 +11,4 @@ build/
 [Bb]in/
 [Oo]bj/
 *.exe
-*.dll
+*.dllS
