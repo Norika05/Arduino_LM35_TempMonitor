@@ -41,5 +41,7 @@ Arduino_LM35_TempMonitor/
 - **Nguyễn Trung Tín** (Chủ repo)
 - **Nguyễn Trung Hậu** (Collaborator)
 ```
+```
 ## Tác giả
 [Nguyễn Trung Tín](https://Norika05.github.io) - Sinh viên PTIT
+```
